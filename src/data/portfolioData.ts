@@ -154,6 +154,7 @@ export const skills: Skill[] = [
   { id: 9, name: "Data Analysis", level: 80, category: "Technical" },
   { id: 10, name: "CRM Systems", level: 75, category: "Technical" },
   { id: 11, name: "MS Excel/PowerBI", level: 85, category: "Technical" },
+  { id: 16, name: "MS Excel/PowerBI", level: 85, category: "Technical" },
   { id: 12, name: "Leadership", level: 90, category: "Soft Skills" },
   { id: 13, name: "Communication", level: 96, category: "Soft Skills" },
   { id: 14, name: "Problem Solving", level: 85, category: "Soft Skills" },
@@ -167,9 +168,9 @@ export const personalInfo = {
   education: [
     {
       degree: "Master of Business Administration (MBA)",
-      school: "Stanford Graduate School of Business",
-      duration: "2022 - 2024",
-      details: "Specialization in Business Management and Marketing. GPA: 3.9/4.0"
+      school: "Lovely Professional University",
+      duration: "2024 - 2026",
+      details: "Specialization in Business Management and Marketing. GPA: 8.3/10.0"
     },
     {
       degree: "Bachelor of Science in Business Administration",
