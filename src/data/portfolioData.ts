@@ -155,7 +155,7 @@ export const skills: Skill[] = [
   { id: 10, name: "CRM Systems", level: 75, category: "Technical" },
   { id: 11, name: "MS Excel/PowerBI", level: 85, category: "Technical" },
   { id: 12, name: "Leadership", level: 90, category: "Soft Skills" },
-  { id: 13, name: "Communication", level: 95, category: "Soft Skills" },
+  { id: 13, name: "Communication", level: 96, category: "Soft Skills" },
   { id: 14, name: "Problem Solving", level: 85, category: "Soft Skills" },
   { id: 15, name: "Team Collaboration", level: 90, category: "Soft Skills" }
 ];
