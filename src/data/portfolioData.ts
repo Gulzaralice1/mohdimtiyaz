@@ -170,7 +170,7 @@ export const personalInfo = {
       degree: "Master of Business Administration (MBA)",
       school: "Lovely Professional University",
       duration: "2024 - 2026",
-      details: "Specialization in Business Management and Marketing. GPA: 8.3/10.0"
+      details: "Specialization in Business Management and Marketing. GPA: 8.9/10.0"
     },
     {
       degree: "Bachelor of Science in Business Administration",
@@ -181,7 +181,7 @@ export const personalInfo = {
   ],
   contact: {
     email: "jordan.smith@example.com",
-    phone: "+1 (555) 123-4567",
+    phone: "+1 (5559999) 123-4567",
     linkedin: "linkedin.com/in/jordansmith",
     location: "San Francisco, CA"
   },
