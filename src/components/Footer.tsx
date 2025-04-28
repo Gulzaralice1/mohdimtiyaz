@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-8 pb-8 border-b border-gray-800">
           <div>
             <h3 className="text-xl font-bold mb-4 flex items-center">
-              <span className="text-gold-500 mr-2">Jordan Smith</span>
+              <span className="text-gold-500 mr-2">Mohd Imtiyaz</span>
             </h3>
             <p className="text-gray-400 mb-4 leading-relaxed">
               MBA Candidate specializing in Business Management and Marketing.
@@ -86,7 +86,7 @@ const Footer: React.FC = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm mb-4 md:mb-0">
-            &copy; {currentYear} Jordan Smith. All rights reserved.
+            &copy; {currentYear} Mohd Imtiyaz. All rights reserved.
           </p>
           <button
             onClick={scrollToTop}

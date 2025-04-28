@@ -12,7 +12,7 @@ import Contact from './components/sections/Contact';
 function App() {
   useEffect(() => {
     // Update document title
-    document.title = "Jordan Smith | MBA Portfolio";
+    document.title = "Mohd Imtiyaz | MBA Portfolio";
     
     // Add dark mode class based on user preference or localStorage
     if (localStorage.theme === 'dark' || (!('theme' in localStorage) && 

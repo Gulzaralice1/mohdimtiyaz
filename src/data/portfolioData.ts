@@ -161,7 +161,7 @@ export const skills: Skill[] = [
 ];
 
 export const personalInfo = {
-  name: "Jordan Smith",
+  name: "Mohd Imtiyaz",
   title: "MBA Candidate - Business Management & Marketing",
   bio: "Results-oriented MBA candidate at Stanford Business School with a specialization in Business Management and Marketing. Passionate about leveraging data-driven strategies to drive business growth and innovation. Experienced in digital marketing, business analytics, and strategic planning with a proven track record of delivering measurable results.",
   education: [
