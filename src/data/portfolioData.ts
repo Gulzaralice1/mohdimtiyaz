@@ -175,7 +175,7 @@ export const personalInfo = {
       degree: "Master of Business Administration (MBA)",
       school: "Lovely Professional University",
       duration: "2024 - 2026",
-      details: "Specialization in Business Management and Marketing. GPA: 8.3/10.0"
+      details: "Specialization in Business Management and Marketing. GPA: 8.9/10.0"
     },
     {
       degree: "Bachelor of Business Administration (BBA)",
@@ -185,11 +185,10 @@ export const personalInfo = {
     }
   ],
   contact: {
-    email: "muhd.imtiyaz9119@gmail.com",
+    email: "jordan.smith@example.com",
     phone: "+1 (555) 123-4567",
-    linkedin: "linkedin.com/in/md-imtiyaz120",
-    github: "github.com/mohdimtiyaz88",
-    location: "Punjab, India"
+    linkedin: "linkedin.com/in/jordansmith",
+    location: "San Francisco, CA"
   },
   profileImage: "https://images.pexels.com/photos/6326377/pexels-photo-6326377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 };
