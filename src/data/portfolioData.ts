@@ -110,33 +110,65 @@ export const experiences: Experience[] = [
 export const certifications: Certification[] = [
   {
     id: 1,
-    name: "Google Analytics Professional",
-    issuer: "Google",
-    date: "September 2023",
-    image: "https://images.pexels.com/photos/6476582/pexels-photo-6476582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    name: "Debt Market Certification ",
+    issuer: "National Institute of Securities Markets (NISM)",
+    date: "March 2025",
+    image: "businessman-clicks-a-bonds-virtual-screen-bond-finance-banking-technology-concept-trade.jpg-s1024x1024wisk20c9EIV5QHO5fJNOgEobYtYGL9C8StlfAq28-6zdZVRrCI.jpg",
     link: "#"
   },
   {
     id: 2,
-    name: "Financial Modeling & Valuation Analyst",
-    issuer: "Corporate Finance Institute",
-    date: "March 2023",
+    name: "Social Stock Exchange Certification",
+    issuer: "National Institute of Securities Markets (NISM)",
+    date: "March 2025",
     image: "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     link: "#"
   },
   {
     id: 3,
-    name: "Project Management Professional (PMP)",
-    issuer: "Project Management Institute",
-    date: "January 2022",
+    name: "Municipal Bonds Certification ",
+    issuer: "National Institute of Securities Markets (NISM)",
+    date: "January 2025",
     image: "https://images.pexels.com/photos/7413915/pexels-photo-7413915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     link: "#"
   },
   {
     id: 4,
-    name: "Digital Marketing Specialization",
-    issuer: "HubSpot Academy",
-    date: "July 2021",
+    name: "Microsoft Excel with AI Training",
+    issuer: "Lovely Professional University",
+    date: "January 2025",
+    image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    link: "#"
+  },
+  {
+    id: 5,
+    name: "Certificate in Financial Accounting ",
+    issuer: "State Council for Technical Education & Vocational Training",
+    date: "July 2023",
+    image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    link: "#"
+  },
+  {
+    id: 6,
+    name: "Certificate in Soft Skills  ",
+    issuer: "State Council for Technical Education & Vocational Training",
+    date: "July 2023",
+    image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    link: "#"
+  },
+  {
+    id: 7,
+    name: "Certificate in Language Skills ",
+    issuer: "State Council for Technical Education & Vocational Training",
+    date: "July 2023",
+    image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    link: "#"
+  },
+  {
+    id: 8,
+    name: "Financial Literacy for Bharat Certification ",
+    issuer: "National Institute of Securities Markets (NISM)",
+    date: "January 2025",
     image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     link: "#"
   }
@@ -162,28 +194,28 @@ export const skills: Skill[] = [
 ];
 
 export const personalInfo = {
-  name: "Mohd Imtiyaz",
-  title: "MBA Candidate - Business Management & Marketing",
-  bio: "Results-oriented MBA candidate at Stanford Business School with a specialization in Business Management and Marketing. Passionate about leveraging data-driven strategies to drive business growth and innovation. Experienced in digital marketing, business analytics, and strategic planning with a proven track record of delivering measurable results.",
+  name: "Mohammad Imtiyaz",
+  title: " MBA candidate specializing in Financial Markets",
+  bio: "Results-oriented MBA candidate at Stanford Business School with a specialization in Business Management and Marketing. Passionate about leveraging data-driven strategies to drive business growth, optimize market opportunities, and enhance operational efficiency. Skilled in market analysis, strategic planning, and digital marketing, with a proven ability to translate insights into actionable initiatives. Adept at collaborating with cross-functional teams to deliver measurable results in dynamic business environments.",
   education: [
     {
       degree: "Master of Business Administration (MBA)",
-      school: "Lovely Professional University",
+      school: "Lovely Professional University | Punjab,India",
       duration: "2024 - 2026",
-      details: "Specialization in Business Management and Marketing. GPA: 8.9/10.0"
+      details: "Specialization in Financial Markets."
     },
     {
       degree: "Bachelor of Science in Business Administration",
-      school: "University of California, Berkeley",
+      school: "Bhupendra Narayan Mandal University | Bihar, India",
       duration: "2018 - 2022",
-      details: "Major in Marketing, Minor in Economics. GPA: 3.8/4.0"
+      details: "general GPA: 8/10"
     }
   ],
   contact: {
-    email: "jordan.smith@example.com",
-    phone: "+1 (5559999) 123-4567",
-    linkedin: "linkedin.com/in/jordansmith",
-    location: "San Francisco, CA"
+    email: "muhd.imtiyaz9119@.com",
+    phone: "+91 8877360992",
+    linkedin: "https://www.linkedin.com/in/md-imtiyaz120/",
+    location: "Phagwara, Punjab, India"
   },
   profileImage: "https://images.pexels.com/photos/6326377/pexels-photo-6326377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 };
