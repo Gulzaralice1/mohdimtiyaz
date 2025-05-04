@@ -200,46 +200,27 @@ export const skills: Skill[] = [
 
 export const personalInfo = {
   name: "Mohammad Imtiyaz",
-  title: " MBA candidate specializing in Financial Markets",
+  title: "MBA candidate specializing in Financial Markets",
   bio: "Results-oriented MBA candidate at Stanford Business School with a specialization in Business Management and Marketing. Passionate about leveraging data-driven strategies to drive business growth, optimize market opportunities, and enhance operational efficiency. Skilled in market analysis, strategic planning, and digital marketing, with a proven ability to translate insights into actionable initiatives. Adept at collaborating with cross-functional teams to deliver measurable results in dynamic business environments.",
   education: [
     {
       degree: "Master of Business Administration (MBA)",
-      school: "Lovely Professional University | Punjab,India",
+      school: "Lovely Professional University | Punjab, India",
       duration: "2024 - 2026",
       details: "Specialization in Financial Markets."
     },
     {
-<<<<<<< HEAD
-      degree: "Bachelor of Science in Business Administration",
-      school: "Bhupendra Narayan Mandal University | Bihar, India",
-      duration: "2018 - 2022",
-      details: "general GPA: 8/10"
-    }
-  ],
-  contact: {
-    email: "muhd.imtiyaz9119@.com",
-    phone: "+91 8877360992",
-    linkedin: "https://www.linkedin.com/in/md-imtiyaz120/",
-    location: "Phagwara, Punjab, India"
-=======
       degree: "Bachelor of Business Administration (BBA)",
-      school: "Bhupendra Narayan Mandal University, Bihar, India",
+      school: "Bhupendra Narayan Mandal University | Bihar, India",
       duration: "2020 - 2024",
       details: "Major in Marketing, Minor in Economics. GPA: 8.0/10.0"
     }
   ],
   contact: {
     email: "muhd.imtiyaz9119@gmail.com",
-    phone: "+1 (555) 123-4567",
-<<<<<<< HEAD
-    linkedin: "linkedin.com/in/md-imtiyaz120",
-    location: "punjab, India",
-=======
-    linkedin: "linkedin.com/in/jordansmith",
-    location: "San Francisco, CA"
->>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
->>>>>>> e43dec3ac59c2bbe9da568f99197051ea3a2371e
+    phone: "+91 8877360992",
+    linkedin: "https://www.linkedin.com/in/md-imtiyaz120/",
+    location: "Phagwara, Punjab, India"
   },
   profileImage: "https://images.pexels.com/photos/6326377/pexels-photo-6326377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 };
