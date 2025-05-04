@@ -1,3 +1,6 @@
+// This file contains the data for the portfolio, including projects, experiences, certifications, skills, and personal information.
+// The data is structured in a way that can be easily consumed by the portfolio application.
+// import img from "..\assets\public\assets\image.jpg"; // Removed unused import
 export type Project = {
   id: number;
   title: string;
@@ -113,7 +116,7 @@ export const certifications: Certification[] = [
     name: "Debt Market Certification ",
     issuer: "National Institute of Securities Markets (NISM)",
     date: "March 2025",
-    image: "businessman-clicks-a-bonds-virtual-screen-bond-finance-banking-technology-concept-trade.jpg-s1024x1024wisk20c9EIV5QHO5fJNOgEobYtYGL9C8StlfAq28-6zdZVRrCI.jpg",
+    image: "src/assets/image.jpg", // Updated with the correct image path
     link: "#"
   },
   {
