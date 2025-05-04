@@ -185,10 +185,10 @@ export const personalInfo = {
     }
   ],
   contact: {
-    email: "jordan.smith@example.com",
+    email: "muhd.imtiyaz9119@gmail.com",
     phone: "+1 (555) 123-4567",
-    linkedin: "linkedin.com/in/jordansmith",
-    location: "San Francisco, CA"
+    linkedin: "linkedin.com/in/md-imtiyaz120",
+    location: "punjab, India",
   },
   profileImage: "https://images.pexels.com/photos/6326377/pexels-photo-6326377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 };
