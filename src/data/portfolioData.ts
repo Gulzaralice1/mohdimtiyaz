@@ -110,33 +110,90 @@ export const experiences: Experience[] = [
 export const certifications: Certification[] = [
   {
     id: 1,
+<<<<<<< HEAD
+    name: "Debt Market Certification ",
+    issuer: "National Institute of Securities Markets (NISM)",
+    date: "March 2025",
+    image: "businessman-clicks-a-bonds-virtual-screen-bond-finance-banking-technology-concept-trade.jpg-s1024x1024wisk20c9EIV5QHO5fJNOgEobYtYGL9C8StlfAq28-6zdZVRrCI.jpg",
+=======
     name: "Debt Market Certification (NISM)",
     issuer: "Google",
     date: "March 2025",
     image: "https://images.pexels.com/photos/6476582/pexels-photo-6476582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+>>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
     link: "#"
   },
   {
     id: 2,
+<<<<<<< HEAD
+    name: "Social Stock Exchange Certification",
+    issuer: "National Institute of Securities Markets (NISM)",
+=======
     name: "Social Stock Exchange Certification (NISM)",
     issuer: "Corporate Finance Institute",
+>>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
     date: "March 2025",
     image: "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     link: "#"
   },
   {
     id: 3,
+<<<<<<< HEAD
+    name: "Municipal Bonds Certification ",
+    issuer: "National Institute of Securities Markets (NISM)",
+    date: "January 2025",
+    image: "https://images.pexels.com/photos/7413915/pexels-photo-7413915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+=======
     name: "Financial Literacy for Bharat Certification (NISM)",
     issuer: "Project Management Institute",
     date: "March 2022",
     image: "htts://images.pexels.com/photos/7413915/pexels-photo-7413915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+>>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
     link: "#"
   },
   {
     id: 4,
+<<<<<<< HEAD
+    name: "Microsoft Excel with AI Training",
+    issuer: "Lovely Professional University",
+    date: "January 2025",
+    image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    link: "#"
+  },
+  {
+    id: 5,
+    name: "Certificate in Financial Accounting ",
+    issuer: "State Council for Technical Education & Vocational Training",
+    date: "July 2023",
+    image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    link: "#"
+  },
+  {
+    id: 6,
+    name: "Certificate in Soft Skills  ",
+    issuer: "State Council for Technical Education & Vocational Training",
+    date: "July 2023",
+    image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    link: "#"
+  },
+  {
+    id: 7,
+    name: "Certificate in Language Skills ",
+    issuer: "State Council for Technical Education & Vocational Training",
+    date: "July 2023",
+    image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    link: "#"
+  },
+  {
+    id: 8,
+    name: "Financial Literacy for Bharat Certification ",
+    issuer: "National Institute of Securities Markets (NISM)",
+    date: "January 2025",
+=======
     name: "Municipal Bonds Certification (NISM)",
     issuer: "HubSpot Academy",
     date: "July 2021",
+>>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
     image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     link: "#"
   },
@@ -167,17 +224,30 @@ export const skills: Skill[] = [
 
 
 export const personalInfo = {
-  name: "Mohd Imtiyaz",
-  title: "MBA Candidate - Business Management & Marketing",
-  bio: "Results-oriented MBA candidate at Stanford Business School with a specialization in Business Management and Marketing. Passionate about leveraging data-driven strategies to drive business growth and innovation. Experienced in digital marketing, business analytics, and strategic planning with a proven track record of delivering measurable results.",
+  name: "Mohammad Imtiyaz",
+  title: " MBA candidate specializing in Financial Markets",
+  bio: "Results-oriented MBA candidate at Stanford Business School with a specialization in Business Management and Marketing. Passionate about leveraging data-driven strategies to drive business growth, optimize market opportunities, and enhance operational efficiency. Skilled in market analysis, strategic planning, and digital marketing, with a proven ability to translate insights into actionable initiatives. Adept at collaborating with cross-functional teams to deliver measurable results in dynamic business environments.",
   education: [
     {
       degree: "Master of Business Administration (MBA)",
-      school: "Lovely Professional University",
+      school: "Lovely Professional University | Punjab,India",
       duration: "2024 - 2026",
-      details: "Specialization in Business Management and Marketing. GPA: 8.9/10.0"
+      details: "Specialization in Financial Markets."
     },
     {
+<<<<<<< HEAD
+      degree: "Bachelor of Science in Business Administration",
+      school: "Bhupendra Narayan Mandal University | Bihar, India",
+      duration: "2018 - 2022",
+      details: "general GPA: 8/10"
+    }
+  ],
+  contact: {
+    email: "muhd.imtiyaz9119@.com",
+    phone: "+91 8877360992",
+    linkedin: "https://www.linkedin.com/in/md-imtiyaz120/",
+    location: "Phagwara, Punjab, India"
+=======
       degree: "Bachelor of Business Administration (BBA)",
       school: "Bhupendra Narayan Mandal University, Bihar, India",
       duration: "2020 - 2024",
@@ -187,8 +257,8 @@ export const personalInfo = {
   contact: {
     email: "muhd.imtiyaz9119@gmail.com",
     phone: "+1 (555) 123-4567",
-    linkedin: "linkedin.com/in/md-imtiyaz120",
-    location: "punjab, India",
+    linkedin: "linkedin.com/in/jordansmith",
+    location: "San Francisco, CA"
   },
   profileImage: "https://images.pexels.com/photos/6326377/pexels-photo-6326377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 };

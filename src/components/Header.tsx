@@ -62,7 +62,7 @@ const Header: React.FC = () => {
     <header className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 ${scrolled ? 'bg-white/90 dark:bg-gray-900/90 backdrop-blur-sm shadow-md' : 'bg-transparent'}`}>
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <a href="#home" className="text-lg font-bold text-navy-600 dark:text-white transition-colors">
-          Mohd Imtiyaz
+          Mohammad Imtiyaz
         </a>
         
         <div className="hidden md:flex items-center space-x-8">
