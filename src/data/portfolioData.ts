@@ -110,30 +110,50 @@ export const experiences: Experience[] = [
 export const certifications: Certification[] = [
   {
     id: 1,
+<<<<<<< HEAD
     name: "Debt Market Certification ",
     issuer: "National Institute of Securities Markets (NISM)",
     date: "March 2025",
     image: "businessman-clicks-a-bonds-virtual-screen-bond-finance-banking-technology-concept-trade.jpg-s1024x1024wisk20c9EIV5QHO5fJNOgEobYtYGL9C8StlfAq28-6zdZVRrCI.jpg",
+=======
+    name: "Debt Market Certification (NISM)",
+    issuer: "Google",
+    date: "March 2025",
+    image: "https://images.pexels.com/photos/6476582/pexels-photo-6476582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+>>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
     link: "#"
   },
   {
     id: 2,
+<<<<<<< HEAD
     name: "Social Stock Exchange Certification",
     issuer: "National Institute of Securities Markets (NISM)",
+=======
+    name: "Social Stock Exchange Certification (NISM)",
+    issuer: "Corporate Finance Institute",
+>>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
     date: "March 2025",
     image: "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     link: "#"
   },
   {
     id: 3,
+<<<<<<< HEAD
     name: "Municipal Bonds Certification ",
     issuer: "National Institute of Securities Markets (NISM)",
     date: "January 2025",
     image: "https://images.pexels.com/photos/7413915/pexels-photo-7413915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+=======
+    name: "Financial Literacy for Bharat Certification (NISM)",
+    issuer: "Project Management Institute",
+    date: "March 2022",
+    image: "htts://images.pexels.com/photos/7413915/pexels-photo-7413915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+>>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
     link: "#"
   },
   {
     id: 4,
+<<<<<<< HEAD
     name: "Microsoft Excel with AI Training",
     issuer: "Lovely Professional University",
     date: "January 2025",
@@ -169,29 +189,39 @@ export const certifications: Certification[] = [
     name: "Financial Literacy for Bharat Certification ",
     issuer: "National Institute of Securities Markets (NISM)",
     date: "January 2025",
+=======
+    name: "Municipal Bonds Certification (NISM)",
+    issuer: "HubSpot Academy",
+    date: "July 2021",
+>>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
+    image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    link: "#"
+  },
+  {
+    id: 5,
+    name: "Investor Certification (SEBI)",
+    issuer: "HubSpot Academy",
+    date: "Jan 2025",
     image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     link: "#"
   }
 ];
 
 export const skills: Skill[] = [
-  { id: 1, name: "Strategic Planning", level: 90, category: "Business" },
-  { id: 2, name: "Market Analysis", level: 85, category: "Business" },
-  { id: 3, name: "Financial Modeling", level: 80, category: "Business" },
-  { id: 4, name: "Project Management", level: 85, category: "Business" },
-  { id: 5, name: "Digital Marketing", level: 90, category: "Marketing" },
-  { id: 6, name: "Brand Strategy", level: 85, category: "Marketing" },
-  { id: 7, name: "Content Strategy", level: 80, category: "Marketing" },
-  { id: 8, name: "SEO/SEM", level: 75, category: "Marketing" },
-  { id: 9, name: "Data Analysis", level: 80, category: "Technical" },
-  { id: 10, name: "CRM Systems", level: 75, category: "Technical" },
-  { id: 11, name: "MS Excel/PowerBI", level: 85, category: "Technical" },
-  { id: 16, name: "MS Excel/PowerBI", level: 85, category: "Technical" },
-  { id: 12, name: "Leadership", level: 90, category: "Soft Skills" },
-  { id: 13, name: "Communication", level: 96, category: "Soft Skills" },
-  { id: 14, name: "Problem Solving", level: 85, category: "Soft Skills" },
-  { id: 15, name: "Team Collaboration", level: 90, category: "Soft Skills" }
+  { "id": 1, "name": "MS Excel", "level": 90, "category": "Technical" },
+  { "id": 2, "name": "MS Word", "level": 85, "category": "Technical" },
+  { "id": 3, "name": "MS PowerPoint", "level": 80, "category": "Technical" },
+  { "id": 4, "name": "Canva", "level": 80, "category": "Technical" },
+
+  { "id": 5, "name": "Leadership", "level": 90, "category": "Soft Skills" },
+  { "id": 6, "name": "Problem-Solving Skills", "level": 85, "category": "Soft Skills" },
+  { "id": 7, "name": "Team Player", "level": 90, "category": "Soft Skills" },
+  { "id": 8, "name": "Negotiation", "level": 85, "category": "Soft Skills" },
+  { "id": 9, "name": "Adaptability", "level": 80, "category": "Soft Skills" },
+  { "id": 10, "name": "Goal-Oriented", "level": 85, "category": "Soft Skills" },
+  { "id": 11, "name": "Teamwork", "level": 90, "category": "Soft Skills" }
 ];
+
 
 export const personalInfo = {
   name: "Mohammad Imtiyaz",
@@ -205,6 +235,7 @@ export const personalInfo = {
       details: "Specialization in Financial Markets."
     },
     {
+<<<<<<< HEAD
       degree: "Bachelor of Science in Business Administration",
       school: "Bhupendra Narayan Mandal University | Bihar, India",
       duration: "2018 - 2022",
@@ -216,6 +247,19 @@ export const personalInfo = {
     phone: "+91 8877360992",
     linkedin: "https://www.linkedin.com/in/md-imtiyaz120/",
     location: "Phagwara, Punjab, India"
+=======
+      degree: "Bachelor of Business Administration (BBA)",
+      school: "Bhupendra Narayan Mandal University, Bihar, India",
+      duration: "2020 - 2024",
+      details: "Major in Marketing, Minor in Economics. GPA: 8.0/10.0"
+    }
+  ],
+  contact: {
+    email: "jordan.smith@example.com",
+    phone: "+1 (555) 123-4567",
+    linkedin: "linkedin.com/in/jordansmith",
+    location: "San Francisco, CA"
+>>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
   },
   profileImage: "https://images.pexels.com/photos/6326377/pexels-photo-6326377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 };
