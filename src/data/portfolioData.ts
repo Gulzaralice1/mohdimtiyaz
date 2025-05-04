@@ -110,50 +110,30 @@ export const experiences: Experience[] = [
 export const certifications: Certification[] = [
   {
     id: 1,
-<<<<<<< HEAD
     name: "Debt Market Certification ",
     issuer: "National Institute of Securities Markets (NISM)",
     date: "March 2025",
     image: "businessman-clicks-a-bonds-virtual-screen-bond-finance-banking-technology-concept-trade.jpg-s1024x1024wisk20c9EIV5QHO5fJNOgEobYtYGL9C8StlfAq28-6zdZVRrCI.jpg",
-=======
-    name: "Debt Market Certification (NISM)",
-    issuer: "Google",
-    date: "March 2025",
-    image: "https://images.pexels.com/photos/6476582/pexels-photo-6476582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
->>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
     link: "#"
   },
   {
     id: 2,
-<<<<<<< HEAD
     name: "Social Stock Exchange Certification",
     issuer: "National Institute of Securities Markets (NISM)",
-=======
-    name: "Social Stock Exchange Certification (NISM)",
-    issuer: "Corporate Finance Institute",
->>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
     date: "March 2025",
     image: "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     link: "#"
   },
   {
     id: 3,
-<<<<<<< HEAD
     name: "Municipal Bonds Certification ",
     issuer: "National Institute of Securities Markets (NISM)",
     date: "January 2025",
     image: "https://images.pexels.com/photos/7413915/pexels-photo-7413915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-=======
-    name: "Financial Literacy for Bharat Certification (NISM)",
-    issuer: "Project Management Institute",
-    date: "March 2022",
-    image: "htts://images.pexels.com/photos/7413915/pexels-photo-7413915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
->>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
     link: "#"
   },
   {
     id: 4,
-<<<<<<< HEAD
     name: "Microsoft Excel with AI Training",
     issuer: "Lovely Professional University",
     date: "January 2025",
@@ -189,11 +169,6 @@ export const certifications: Certification[] = [
     name: "Financial Literacy for Bharat Certification ",
     issuer: "National Institute of Securities Markets (NISM)",
     date: "January 2025",
-=======
-    name: "Municipal Bonds Certification (NISM)",
-    issuer: "HubSpot Academy",
-    date: "July 2021",
->>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
     image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     link: "#"
   },
@@ -257,8 +232,14 @@ export const personalInfo = {
   contact: {
     email: "muhd.imtiyaz9119@gmail.com",
     phone: "+1 (555) 123-4567",
+<<<<<<< HEAD
+    linkedin: "linkedin.com/in/md-imtiyaz120",
+    location: "punjab, India",
+=======
     linkedin: "linkedin.com/in/jordansmith",
     location: "San Francisco, CA"
+>>>>>>> 70de4eb42c761b234e6e3d1c12646eed419bf049
+>>>>>>> e43dec3ac59c2bbe9da568f99197051ea3a2371e
   },
   profileImage: "https://images.pexels.com/photos/6326377/pexels-photo-6326377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 };
