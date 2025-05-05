@@ -58,7 +58,7 @@ export const projects: Project[] = [
     title: "Financial Statement Analysis",
     category: "Hotel Industry",
     description: "Conducted a comprehensive financial statement analysis for leading hotel chains like Lemon Tree and Taj Hotels, identifying key strengths and weaknesses, and providing strategic recommendations that enhanced financial performance and market positioning.",
-    image: "https://images.pexels.com/photos/262353/pexels-photo-262353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "src/assets/Financial.jpg", // Updated with the correct image path
     skills: ["Comparative Analysis", "Financial Performance", " Market Positioning", "Key Financial Metrics","Competitive Advantage"],
   },
   {
@@ -66,7 +66,7 @@ export const projects: Project[] = [
     title: "Technical Analysis",
     category: "Equity Markets",
     description: "Executed data-driven technical trades on blue-chip stocks using key indicators, delivering consistent portfolio gains and improved trade accuracy through disciplined analysis and risk management.",
-    image: "https://images.pexels.com/photos/3153201/pexels-photo-3153201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "src/assets/TechnicalAnalysis.jpg", // Updated with the correct image path
     skills: ["Equity Trades", "Technical Indicators", "Portfolio Optimization", "Price Data Analysis","Risk Management"],
   }
 ];
@@ -140,7 +140,7 @@ export const certifications: Certification[] = [
     name: "Microsoft Excel with AI Training",
     issuer: "Lovely Professional University",
     date: "January 2025",
-    image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "src/assets/Microsoft_Excel.jpg", // Updated with the correct image path
     link: "#"
   },
   {
@@ -148,7 +148,7 @@ export const certifications: Certification[] = [
     name: "Certificate in Financial Accounting ",
     issuer: "State Council for Technical Education & Vocational Training",
     date: "July 2023",
-    image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "src/assets/Financial_Accounting.png", // Updated with the correct image path
     link: "#"
   },
   {
@@ -156,7 +156,7 @@ export const certifications: Certification[] = [
     name: "Certificate in Soft Skills  ",
     issuer: "State Council for Technical Education & Vocational Training",
     date: "July 2023",
-    image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "src/assets/Soft_Skills.webp", // Updated with the correct image path
     link: "#"
   },
   {
@@ -164,7 +164,7 @@ export const certifications: Certification[] = [
     name: "Certificate in Language Skills ",
     issuer: "State Council for Technical Education & Vocational Training",
     date: "July 2023",
-    image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "src/assets/Language_Skills.jpg", // Updated with the correct image path
     link: "#"
   },
   {
@@ -172,7 +172,7 @@ export const certifications: Certification[] = [
     name: "Financial Literacy for Bharat Certification ",
     issuer: "National Institute of Securities Markets (NISM)",
     date: "January 2025",
-    image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "src/assets/Financial_Literacy_gas_for_bharat.jpg", // Updated with the correct image path
     link: "#"
   },
   {
