@@ -17,8 +17,8 @@ const Projects: React.FC = () => {
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-4">My Projects</h2>
           <div className="w-24 h-1 bg-gold-500 mx-auto rounded-full mb-6"></div>
           <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            Explore my portfolio of business and marketing projects that demonstrate my strategic thinking,
-            analytical skills, and ability to drive results.
+          This portfolio showcases business and finance projects that reflect my strategic thinking, analytical skills, and focus on delivering results. From brand building to financial analysis and technical trading, each initiative highlights measurable impact and performance enhancement.
+            
           </p>
         </div>
 

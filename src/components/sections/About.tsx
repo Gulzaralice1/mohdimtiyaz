@@ -9,6 +9,11 @@ const About: React.FC = () => {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-4">About Me</h2>
           <div className="w-24 h-1 bg-gold-500 mx-auto rounded-full"></div>
+          <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
+            
+          This portfolio showcases business and finance projects that reflect my strategic thinking, analytical skills, and focus on delivering results. From brand building to financial analysis and technical trading, each initiative highlights measurable impact and performance enhancement.
+            
+          </p>
         </div>
         
         <div className="grid md:grid-cols-2 gap-12 items-start">
