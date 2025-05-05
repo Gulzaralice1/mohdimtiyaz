@@ -8,6 +8,7 @@ import Skills from './components/sections/Skills';
 import Experience from './components/sections/Experience';
 import Certifications from './components/sections/Certifications';
 import Contact from './components/sections/Contact';
+import Achievements from './components/sections/Achivement';
 
 function App() {
   useEffect(() => {
@@ -47,6 +48,7 @@ function App() {
         <Skills />
         <Experience />
         <Certifications />
+        <Achievements />
         <Contact />
       </main>
       <Footer />
