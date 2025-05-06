@@ -4,7 +4,7 @@ import TechnicalAnalysis from "../assets/TechnicalAnalysis.jpg";
 import MicrosoftExcel from "../assets/Microsoft_Excel.jpg";
 import FinancialAccounting from "../assets/Financial_Accounting.png";
 import SoftSkills from "../assets/Soft_Skills.webp";
-// import LanguageSkills from "../assets/Language_Skills.jpg";
+import LanguageSkills from "../assets/Language_Skills.jpg";
 import FinancialLiteracy from "../assets/Financial_Literacy_gas_for_bharat.jpg";
 
 // import InvestorCertification from "../assets/Investor_Certification.jpg";
@@ -173,7 +173,7 @@ export const certifications: Certification[] = [
     name: "Certificate in Language Skills ",
     issuer: "State Council for Technical Education & Vocational Training",
     date: "July 2023",
-    image: SoftSkills, // Updated with the correct image path
+    image: LanguageSkills, // Updated with the correct image path
     link: "#"
   },
   {
