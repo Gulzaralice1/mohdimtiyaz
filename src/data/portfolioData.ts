@@ -225,5 +225,5 @@ export const personalInfo = {
     linkedin: "https://www.linkedin.com/in/md-imtiyaz120/",
     location: "Phagwara, Punjab, India"
   },
-  profileImage: "https://images.pexels.com/photos/6326377/pexels-photo-6326377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  profileImage: "src/assets/profile_photo.jpg", // Updated with the correct image path
 };
