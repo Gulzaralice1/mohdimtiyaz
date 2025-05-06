@@ -1,6 +1,13 @@
-// This file contains the data for the portfolio, including projects, experiences, certifications, skills, and personal information.
-// The data is structured in a way that can be easily consumed by the portfolio application.
-// import img from "..\assets\public\assets\image.jpg"; // Removed unused import
+import profilePhoto from "../assets/profile_photo.jpg";
+import FinancialStatement from "../assets/Financial.jpg";
+import TechnicalAnalysis from "../assets/TechnicalAnalysis.jpg";
+import MicrosoftExcel from "../assets/Microsoft_Excel.jpg";
+import FinancialAccounting from "../assets/Financial_Accounting.png";
+import SoftSkills from "../assets/Soft_Skills.webp";
+// import LanguageSkills from "../assets/Language_Skills.jpg";
+import FinancialLiteracy from "../assets/Financial_Literacy_gas_for_bharat.jpg";
+// import InvestorCertification from "../assets/Investor_Certification.jpg";
+
 export type Project = {
   id: number;
   title: string;
@@ -58,7 +65,7 @@ export const projects: Project[] = [
     title: "Financial Statement Analysis",
     category: "Hotel Industry",
     description: "Conducted a comprehensive financial statement analysis for leading hotel chains like Lemon Tree and Taj Hotels, identifying key strengths and weaknesses, and providing strategic recommendations that enhanced financial performance and market positioning.",
-    image: "src/assets/Financial.jpg", // Updated with the correct image path
+    image: FinancialStatement, // Updated with the correct image path
     skills: ["Comparative Analysis", "Financial Performance", " Market Positioning", "Key Financial Metrics","Competitive Advantage"],
   },
   {
@@ -66,7 +73,7 @@ export const projects: Project[] = [
     title: "Technical Analysis",
     category: "Equity Markets",
     description: "Executed data-driven technical trades on blue-chip stocks using key indicators, delivering consistent portfolio gains and improved trade accuracy through disciplined analysis and risk management.",
-    image: "src/assets/TechnicalAnalysis.jpg", // Updated with the correct image path
+    image: TechnicalAnalysis, // Updated with the correct image path
     skills: ["Equity Trades", "Technical Indicators", "Portfolio Optimization", "Price Data Analysis","Risk Management"],
   }
 ];
@@ -140,7 +147,7 @@ export const certifications: Certification[] = [
     name: "Microsoft Excel with AI Training",
     issuer: "Lovely Professional University",
     date: "January 2025",
-    image: "src/assets/Microsoft_Excel.jpg", // Updated with the correct image path
+    image: MicrosoftExcel, // Updated with the correct image path
     link: "#"
   },
   {
@@ -148,7 +155,7 @@ export const certifications: Certification[] = [
     name: "Certificate in Financial Accounting ",
     issuer: "State Council for Technical Education & Vocational Training",
     date: "July 2023",
-    image: "src/assets/Financial_Accounting.png", // Updated with the correct image path
+    image: FinancialAccounting, // Updated with the correct image path
     link: "#"
   },
   {
@@ -164,7 +171,7 @@ export const certifications: Certification[] = [
     name: "Certificate in Language Skills ",
     issuer: "State Council for Technical Education & Vocational Training",
     date: "July 2023",
-    image: "src/assets/Language_Skills.jpg", // Updated with the correct image path
+    image: SoftSkills, // Updated with the correct image path
     link: "#"
   },
   {
@@ -172,7 +179,7 @@ export const certifications: Certification[] = [
     name: "Financial Literacy for Bharat Certification ",
     issuer: "National Institute of Securities Markets (NISM)",
     date: "January 2025",
-    image: "src/assets/Financial_Literacy_gas_for_bharat.jpg", // Updated with the correct image path
+    image: FinancialLiteracy, // Updated with the correct image path
     link: "#"
   },
   {
@@ -225,5 +232,9 @@ export const personalInfo = {
     linkedin: "https://www.linkedin.com/in/md-imtiyaz120/",
     location: "Phagwara, Punjab, India"
   },
-  profileImage: "src/assets/profile_photo.jpg", // Updated with the correct image path
+  profileImage: profilePhoto // Updated with the correct image path
 };
+
+
+
+
