@@ -6,7 +6,9 @@ import FinancialAccounting from "../assets/Financial_Accounting.png";
 import SoftSkills from "../assets/Soft_Skills.webp";
 // import LanguageSkills from "../assets/Language_Skills.jpg";
 import FinancialLiteracy from "../assets/Financial_Literacy_gas_for_bharat.jpg";
+
 // import InvestorCertification from "../assets/Investor_Certification.jpg";
+
 
 export type Project = {
   id: number;
@@ -163,7 +165,7 @@ export const certifications: Certification[] = [
     name: "Certificate in Soft Skills  ",
     issuer: "State Council for Technical Education & Vocational Training",
     date: "July 2023",
-    image: "src/assets/Soft_Skills.webp", // Updated with the correct image path
+    image: SoftSkills, // Updated with the correct image path
     link: "#"
   },
   {
